@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://GwynBenbow031135.github.io/my-notes/sitemap.xml
